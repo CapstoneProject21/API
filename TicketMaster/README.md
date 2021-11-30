@@ -1,4 +1,4 @@
-#TicektMaster
+#TicketMaster
 
 Steps
 
